@@ -1,0 +1,11 @@
+.navbar__logo {
+  height: 6%;
+  width: 8%;
+  margin-left: 1%;
+}
+body {
+  background-image: url("../../Assets/flight.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}

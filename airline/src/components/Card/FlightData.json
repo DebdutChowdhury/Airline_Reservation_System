@@ -1,0 +1,32 @@
+[
+  {
+    "from": "Kolkata",
+    "to": "Chennai",
+    "time": "9:04pm-11:00am",
+    "date": "2022-01-15"
+  },
+  {
+    "from": "Kolkata",
+    "to": "Chennai",
+    "time": "10:04pm-12:00am",
+    "date": "2022-01-15"
+  },
+  {
+    "from": "Chennai",
+    "to": "Kolkata",
+    "time": "19:04pm-21:00am",
+    "date": "2022-04-15"
+  },
+  {
+    "from": "Delhi",
+    "to": "Kolkata",
+    "time": "13:04pm-15:00pm",
+    "date": "2022-03-15"
+  },
+  {
+    "from": "Mumbai",
+    "to": "Delhi",
+    "time": "15:04pm-17:00pm",
+    "date": "2022-02-15"
+  }
+]

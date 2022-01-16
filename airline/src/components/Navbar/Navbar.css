@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar__logo {
+  /* height: 6%;
+  width: 8%;
+  margin-left: 1%; */
+  width: 88%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
+.navbar__container {
+  background: #fff;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  border-radius: 10px;
+}
+
+.navbar__title {
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.home__accicon {
+  font-size: 2rem;
+  margin-right: 1%;
+  cursor: pointer;
+}

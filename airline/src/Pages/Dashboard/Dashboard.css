@@ -1,0 +1,51 @@
+.app__container {
+  padding: 0 10%;
+}
+
+.home__icon {
+  display: flex;
+  justify-content: space-between;
+  /* margin-left: 14%; */
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+.home__accicon {
+  height: 0%;
+  width: 4%;
+  justify-content: flex-end;
+  margin-top: 9px;
+  /* margin-right: -32%; */
+}
+
+.home__search {
+  /* padding: 1% 4%;
+  border: 1px solid black;
+  border-radius: 15%; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.home__searchHeading {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.home__form {
+  margin-top: 2%;
+  padding: 1% 4%;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  background: #fff;
+}
+.home__btn {
+  width: 12%;
+}
+.search__btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
